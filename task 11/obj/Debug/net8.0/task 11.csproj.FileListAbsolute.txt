@@ -1,0 +1,15 @@
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\bin\Debug\net8.0\task 11.exe
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\bin\Debug\net8.0\task 11.deps.json
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\bin\Debug\net8.0\task 11.runtimeconfig.json
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\bin\Debug\net8.0\task 11.dll
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\bin\Debug\net8.0\task 11.pdb
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.AssemblyInfoInputs.cache
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.AssemblyInfo.cs
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.csproj.CoreCompileInputs.cache
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.sourcelink.json
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.dll
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\refint\task 11.dll
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.pdb
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\task 11.genruntimeconfig.cache
+C:\Users\basma\Desktop\depi tasks\c#\task 11\task 11\obj\Debug\net8.0\ref\task 11.dll
